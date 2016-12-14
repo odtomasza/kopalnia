@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kopalnia.CSharp.Plugins", "kopalnia.CSharp.Plugins.csproj", "{37106A4F-B410-87AD-DAAD-07A59065F80F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kopalnia.CSharp", "kopalnia.CSharp.csproj", "{3EBD407D-D801-37B9-8869-3971B5098EA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kopalnia.CSharp.Editor", "kopalnia.CSharp.Editor.csproj", "{59B009EA-A23E-F605-F7FF-202E1EE8B25A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37106A4F-B410-87AD-DAAD-07A59065F80F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37106A4F-B410-87AD-DAAD-07A59065F80F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37106A4F-B410-87AD-DAAD-07A59065F80F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37106A4F-B410-87AD-DAAD-07A59065F80F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EBD407D-D801-37B9-8869-3971B5098EA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EBD407D-D801-37B9-8869-3971B5098EA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EBD407D-D801-37B9-8869-3971B5098EA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EBD407D-D801-37B9-8869-3971B5098EA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59B009EA-A23E-F605-F7FF-202E1EE8B25A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59B009EA-A23E-F605-F7FF-202E1EE8B25A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59B009EA-A23E-F605-F7FF-202E1EE8B25A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59B009EA-A23E-F605-F7FF-202E1EE8B25A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
